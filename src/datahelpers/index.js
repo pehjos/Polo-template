@@ -1,0 +1,1 @@
+// this is to store static data that is used in the app

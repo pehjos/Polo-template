@@ -1,0 +1,190 @@
+#app {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding-top: 2rem;
+  text-align: center;
+}
+
+/* Fonts - Find/Replace your website fonts with your custom font name.*/
+body {
+	font-size: 1em;
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*Paragraphs*/
+p {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*Headings*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*Main Menu*/
+#mainMenu nav>ul>li>a {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 0.6px;
+}
+
+#mainMenu nav>ul>li .dropdown-menu>li>a,
+#mainMenu nav>ul>li .dropdown-menu>li>span,
+#mainMenu nav>ul>li .dropdown-menu>li [class*="col-"]>ul>li>a {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+.H400 {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	font-size: 13px;
+	font-weight: 600;
+}
+.H350 {
+    font-size: 1.78571429em;
+    line-height: 1.5em;
+    font-weight: 500;
+	font-family: "Poppins", sans-serif;
+    color: #1f1f1f;
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+.H500{
+	font-size: 1rem;
+    line-height: 1.65714286em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "Poppins", sans-serif;
+    color: #484848;
+}
+
+p {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.7;
+    letter-spacing: 0;
+    color: #777;
+    font-family: "Poppins", sans-serif;
+}
+.TIME{
+	font-size:10px;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: none;
+    line-height: 1.7;
+    letter-spacing: 0;
+    color: #777;
+    font-family: "Poppins", sans-serif;
+
+}
+.HEADER{
+
+		font-size: 1.95714286em;
+		line-height: 1.68421053em;
+		font-weight: 700;
+		font-family: "Poppins", sans-serif;
+		color: #1f1f1f;
+		margin: 0;
+		letter-spacing: 0.5px;	
+}
+.LOGO{
+	font-size:28px;
+	line-height: 1.68421053em;
+	font-weight: 900;
+	font-family: "Poppins", sans-serif;
+	color: #1f1f1f;
+	margin: 0;
+	letter-spacing: 0.5px;
+}
+
+
+.NEW{
+	width: fit-content;
+    color: #fff;
+    background-color: #dc3545;
+    display: inline-block;
+    padding: .20em .3em;
+    font-size:10px;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+.H300 {
+  font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 500;
+  font-style: normal;
+  color: #444;
+  font-family: "Poppins", sans-serif;
+  padding: 12px 20px 12px 18px;
+  display: block;
+  transition: .3s ease;
+}
+
+/*Sidebar Menu*/
+.sidebar-menu {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*Buttons*/
+button,
+a.btn:not([href]):not([tabindex]),
+.btn {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*slider*/
+.inspiro-slider .slide .slide-captions .strong {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+/*Page Title*/
+#page-title .page-title>h1 {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	font-size: 44px;
+	line-height: 56px;
+	font-weight: 400;
+}
+
+/*Footer*/
+#footer {
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+#footer p {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+}
+
+#footer .widget .widget-title,
+#footer .widget h4 {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+#footer .widget .widget-title ul li a,
+#footer .widget h4 ul li a {
+	font-family: "Poppins", "Helvetica", "Arial", sans-serif;
+	font-size: 15px;
+}
